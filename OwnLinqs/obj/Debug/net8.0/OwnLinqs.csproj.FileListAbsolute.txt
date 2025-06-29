@@ -1,0 +1,14 @@
+C:\Users\lkarzhalovi\RiderProjects\OwnLinqs\OwnLinqs\bin\Debug\net8.0\OwnLinqs.exe
+C:\Users\lkarzhalovi\RiderProjects\OwnLinqs\OwnLinqs\bin\Debug\net8.0\OwnLinqs.deps.json
+C:\Users\lkarzhalovi\RiderProjects\OwnLinqs\OwnLinqs\bin\Debug\net8.0\OwnLinqs.runtimeconfig.json
+C:\Users\lkarzhalovi\RiderProjects\OwnLinqs\OwnLinqs\bin\Debug\net8.0\OwnLinqs.dll
+C:\Users\lkarzhalovi\RiderProjects\OwnLinqs\OwnLinqs\bin\Debug\net8.0\OwnLinqs.pdb
+C:\Users\lkarzhalovi\RiderProjects\OwnLinqs\OwnLinqs\obj\Debug\net8.0\OwnLinqs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lkarzhalovi\RiderProjects\OwnLinqs\OwnLinqs\obj\Debug\net8.0\OwnLinqs.AssemblyInfoInputs.cache
+C:\Users\lkarzhalovi\RiderProjects\OwnLinqs\OwnLinqs\obj\Debug\net8.0\OwnLinqs.AssemblyInfo.cs
+C:\Users\lkarzhalovi\RiderProjects\OwnLinqs\OwnLinqs\obj\Debug\net8.0\OwnLinqs.csproj.CoreCompileInputs.cache
+C:\Users\lkarzhalovi\RiderProjects\OwnLinqs\OwnLinqs\obj\Debug\net8.0\OwnLinqs.dll
+C:\Users\lkarzhalovi\RiderProjects\OwnLinqs\OwnLinqs\obj\Debug\net8.0\refint\OwnLinqs.dll
+C:\Users\lkarzhalovi\RiderProjects\OwnLinqs\OwnLinqs\obj\Debug\net8.0\OwnLinqs.pdb
+C:\Users\lkarzhalovi\RiderProjects\OwnLinqs\OwnLinqs\obj\Debug\net8.0\OwnLinqs.genruntimeconfig.cache
+C:\Users\lkarzhalovi\RiderProjects\OwnLinqs\OwnLinqs\obj\Debug\net8.0\ref\OwnLinqs.dll

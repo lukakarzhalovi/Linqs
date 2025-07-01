@@ -7,6 +7,6 @@ var enumerable = list.MyWhere(i => i >1 );
 
 foreach (var each in enumerable)
 {
-    Console.WriteLine(each);
+    Console.WriteLine("ლუკა" + each);
 }
 

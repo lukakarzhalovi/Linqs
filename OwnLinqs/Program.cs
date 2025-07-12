@@ -15,3 +15,11 @@ foreach (var each in selectEnumerable)
 {
     Console.WriteLine(each);
 }
+
+var rangeEnumerable = OwnRange.Range(1, 10);
+
+foreach (var each in rangeEnumerable)
+{
+    Console.WriteLine(each);
+
+}
